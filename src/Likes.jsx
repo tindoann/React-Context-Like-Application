@@ -11,3 +11,4 @@ export const Likes = React.memo(() => {
     </div>
   );
 });
+
